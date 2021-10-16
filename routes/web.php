@@ -1,5 +1,7 @@
 <?php
 
+use Illuminate\Support\Facades\Route;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +15,18 @@
 
 Route::get('/', function () {
     return view('contents.Index');
+});
+
+Route::get('eventos', function () {
+    return view('contents.Events');
+});
+
+Route::get('blog', function () {
+    return view('contents.Blog');
+});
+
+Route::get('blog/post', function () {
+    return view('contents.Post');
 });
 
 Route::get('/', 'Web\HomeController@index');

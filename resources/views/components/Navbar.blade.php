@@ -8,12 +8,12 @@
 
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active"><a href="index.html" class="nav-link">Inicio</a></li>
-                    <li class="nav-item"><a href="about.html" class="nav-link">Nosotros</a></li>
-                    <li class="nav-item"><a href="events.html" class="nav-link">Eventos</a></li>
-                    <li class="nav-item"><a href="sermons.html" class="nav-link">Tienda</a></li>
-                    <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contacto</a></li>
+                    <li class="nav-item active"><a href="/" class="nav-link">Inicio</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Nosotros</a></li>
+                    <li class="nav-item"><a href="/eventos" class="nav-link">Eventos</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Tienda</a></li>
+                    <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Contacto</a></li>
                 </ul>
             </div>
         </div>
